@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="22505" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="22504"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionReusableView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="RestaurantHeader" id="U6b-Vx-4bR" customClass="RestaurantHeader" customModule="FudyeApp" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="457" height="269"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <subviews>
+                <collectionView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleAspectFill" scrollEnabled="NO" dataMode="none" translatesAutoresizingMaskIntoConstraints="NO" id="oBg-m8-Z4Y">
+                    <rect key="frame" x="0.0" y="0.0" width="457" height="227"/>
+                    <collectionViewFlowLayout key="collectionViewLayout" scrollDirection="horizontal" minimumLineSpacing="10" minimumInteritemSpacing="10" id="u5Z-1v-nnF">
+                        <size key="itemSize" width="128" height="128"/>
+                        <size key="headerReferenceSize" width="0.0" height="0.0"/>
+                        <size key="footerReferenceSize" width="0.0" height="0.0"/>
+                        <inset key="sectionInset" minX="0.0" minY="0.0" maxX="0.0" maxY="0.0"/>
+                    </collectionViewFlowLayout>
+                </collectionView>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="UFt-ku-Ifw">
+                    <rect key="frame" x="12" y="8" width="433" height="20"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="20" id="O72-fh-hPu"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" style="UICTFontTextStyleHeadline"/>
+                    <color key="textColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <color key="highlightedColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                </label>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="VXr-Tz-HHm"/>
+            <constraints>
+                <constraint firstItem="UFt-ku-Ifw" firstAttribute="top" secondItem="U6b-Vx-4bR" secondAttribute="top" constant="8" id="38Z-BL-d0y"/>
+                <constraint firstAttribute="trailing" secondItem="UFt-ku-Ifw" secondAttribute="trailing" constant="12" id="5z7-XV-Lep"/>
+                <constraint firstItem="VXr-Tz-HHm" firstAttribute="bottom" secondItem="oBg-m8-Z4Y" secondAttribute="bottom" constant="8" id="RRn-Yq-yUh"/>
+                <constraint firstItem="oBg-m8-Z4Y" firstAttribute="leading" secondItem="VXr-Tz-HHm" secondAttribute="leading" id="S1e-TZ-NJH"/>
+                <constraint firstItem="oBg-m8-Z4Y" firstAttribute="trailing" secondItem="VXr-Tz-HHm" secondAttribute="trailing" id="gE5-2m-OVt"/>
+                <constraint firstItem="oBg-m8-Z4Y" firstAttribute="top" secondItem="U6b-Vx-4bR" secondAttribute="top" id="kgO-ow-5w4"/>
+                <constraint firstItem="UFt-ku-Ifw" firstAttribute="leading" secondItem="U6b-Vx-4bR" secondAttribute="leading" constant="12" id="qEP-tw-3Zv"/>
+                <constraint firstItem="UFt-ku-Ifw" firstAttribute="centerX" secondItem="U6b-Vx-4bR" secondAttribute="centerX" id="rdU-p1-GfM"/>
+            </constraints>
+            <connections>
+                <outlet property="RestaurantPhotosCollection" destination="oBg-m8-Z4Y" id="kko-oU-hXJ"/>
+                <outlet property="restaurantName" destination="UFt-ku-Ifw" id="iVM-Wk-UoD"/>
+            </connections>
+            <point key="canvasLocation" x="95.419847328244273" y="96.83098591549296"/>
+        </collectionReusableView>
+    </objects>
+</document>

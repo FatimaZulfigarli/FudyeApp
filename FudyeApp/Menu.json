@@ -1,0 +1,334 @@
+[
+    {
+        "cuisineName": "Italian",
+        "cuisinePhoto": "ItalianCuisine",
+        "restaurants": [
+            {
+                "name": "La Dolce Vita",
+                "restaurantPhoto": "DolceVita",
+                "aboutRestaurant": "La Dolce Vita is a cozy place that brings the essence of Italian cuisine to life. Located at 123 Main Street in Springfield, this restaurant is known for its warm ambiance and traditional dishes. With a rating of 4.5 stars, it has become a favorite among locals and visitors alike. Open from 11am to 10pm every day of the week, La Dolce Vita offers a variety of classic Italian meals.La Dolce Vita is a cozy place that brings the essence of Italian cuisine to life. Located at 123 Main Street in Springfield, this restaurant is known for its warm ambiance and traditional dishes. With a rating of 4.5 stars, it has become a favorite among locals and visitors alike. Open from 11am to 10pm every day of the week, La Dolce Vita offers a variety of classic Italian meals.La Dolce Vita is a cozy place that brings the essence of Italian cuisine to life. Located at 123 Main Street in Springfield, this restaurant is known for its warm ambiance and traditional dishes. With a rating of 4.5 stars, it has become a favorite among locals and visitors alike. Open from 11am to 10pm every day of the week, La Dolce Vita offers a variety of classic Italian meals.La Dolce Vita is a cozy place that brings the essence of Italian cuisine to life. Located at 123 Main Street in Springfield, this restaurant is known for its warm ambiance and traditional dishes. With a rating of 4.5 stars, it has become a favorite among locals and visitors alike. Open from 11am to 10pm every day of the week, La Dolce Vita offers a variety of classic Italian meals.",
+                "foods": [
+                    {
+                        "foodName": "Spaghetti Carbonara",
+                        "foodPhoto": "spaghetti",
+                        "foodPrice": "$12.99"
+                    },
+                    {
+                        "foodName": "Margherita Pizza",
+                        "foodPhoto": "margherita",
+                        "foodPrice": "$10.99"
+                    },
+                    {
+                        "foodName": "Lasagna",
+                        "foodPhoto": "lasagna",
+                        "foodPrice": "$13.99"
+                    },
+                    {
+                        "foodName": "Tiramisu",
+                        "foodPhoto": "tiramisu",
+                        "foodPrice": "$8.99"
+                    },
+                    {
+                        "foodName": "Fettuccine Alfredo",
+                        "foodPhoto": "fettuccine_alfredo",
+                        "foodPrice": "$13.99"
+                    }
+                ]
+            },
+            {
+                "name": "Ristorante Roma",
+                "restaurantPhoto": "RistoranteRoma",
+                "aboutRestaurant": "Ristorante Roma offers a sophisticated dining experience with a touch of Roman elegance.",
+                "foods": [
+                    {
+                        "foodName": "Spaghetti Carbonara",
+                        "foodPhoto": "spaghetti",
+                        "foodPrice": "$12.99"
+                    },
+                    {
+                        "foodName": "Margherita Pizza",
+                        "foodPhoto": "margherita",
+                        "foodPrice": "$10.99"
+                    },
+                    {
+                        "foodName": "Lasagna",
+                        "foodPhoto": "lasagna",
+                        "foodPrice": "$13.99"
+                    },
+                    {
+                        "foodName": "Tiramisu",
+                        "foodPhoto": "tiramisu",
+                        "foodPrice": "$8.99"
+                    },
+                    {
+                        "foodName": "Fettuccine Alfredo",
+                        "foodPhoto": "fettuccine_alfredo",
+                        "foodPrice": "$13.99"
+                    }
+                ]
+            },
+            {
+                "name": "Bella Italia",
+                "restaurantPhoto": "BellaItalia",
+                "aboutRestaurant": "Bella Italia is known for its authentic Italian cuisine.",
+                "foods": [
+                    {
+                        "foodName": "Spaghetti Carbonara",
+                        "foodPhoto": "spaghetti",
+                        "foodPrice": "$12.99"
+                    },
+                    {
+                        "foodName": "Margherita Pizza",
+                        "foodPhoto": "margherita",
+                        "foodPrice": "$10.99"
+                    },
+                    {
+                        "foodName": "Lasagna",
+                        "foodPhoto": "lasagna",
+                        "foodPrice": "$13.99"
+                    },
+                    {
+                        "foodName": "Tiramisu",
+                        "foodPhoto": "tiramisu",
+                        "foodPrice": "$8.99"
+                    },
+                    {
+                        "foodName": "Fettuccine Alfredo",
+                        "foodPhoto": "fettuccine_alfredo",
+                        "foodPrice": "$13.99"
+                    }
+                ]
+            },
+            {
+                "name": "Trattoria Toscana",
+                "restaurantPhoto": "TrattoriaToscana",
+                "aboutRestaurant": "Trattoria Toscana offers a traditional Tuscan dining experience.",
+                "foods": [
+                    {
+                        "foodName": "Spaghetti Carbonara",
+                        "foodPhoto": "spaghetti",
+                        "foodPrice": "$12.99"
+                    },
+                    {
+                        "foodName": "Margherita Pizza",
+                        "foodPhoto": "margherita",
+                        "foodPrice": "$10.99"
+                    },
+                    {
+                        "foodName": "Lasagna",
+                        "foodPhoto": "lasagna",
+                        "foodPrice": "$13.99"
+                    },
+                    {
+                        "foodName": "Tiramisu",
+                        "foodPhoto": "tiramisu",
+                        "foodPrice": "$8.99"
+                    },
+                    {
+                        "foodName": "Fettuccine Alfredo",
+                        "foodPhoto": "fettuccine_alfredo",
+                        "foodPrice": "$13.99"
+                    }
+                ]
+            },
+            {
+                "name": "Osteria Francescana",
+                "restaurantPhoto": "OsteriaFrancescana",
+                "aboutRestaurant": "Osteria Francescana is a world-renowned Italian restaurant.",
+                "foods": [
+                    {
+                        "foodName": "Spaghetti Carbonara",
+                        "foodPhoto": "spaghetti",
+                        "foodPrice": "$12.99"
+                    },
+                    {
+                        "foodName": "Margherita Pizza",
+                        "foodPhoto": "margherita",
+                        "foodPrice": "$10.99"
+                    },
+                    {
+                        "foodName": "Lasagna",
+                        "foodPhoto": "lasagna",
+                        "foodPrice": "$13.99"
+                    },
+                    {
+                        "foodName": "Tiramisu",
+                        "foodPhoto": "tiramisu",
+                        "foodPrice": "$8.99"
+                    },
+                    {
+                        "foodName": "Fettuccine Alfredo",
+                        "foodPhoto": "fettuccine_alfredo",
+                        "foodPrice": "$13.99"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "cuisineName": "Japanese",
+        "cuisinePhoto": "JapaneseCuisine",
+        "restaurants": [
+            {
+                "name": "Sakura Sushi",
+                "restaurantPhoto": "SakuraSushi",
+                "aboutRestaurant": "Fresh sushi and traditional Japanese dishes.",
+                "foods": [
+                    {
+                        "foodName": "Sushi Platter",
+                        "foodPhoto": "sushi_platter",
+                        "foodPrice": "$25.99"
+                    },
+                    {
+                        "foodName": "Ramen",
+                        "foodPhoto": "ramen",
+                        "foodPrice": "$12.99"
+                    },
+                    {
+                        "foodName": "Tempura",
+                        "foodPhoto": "tempura",
+                        "foodPrice": "$14.99"
+                    },
+                    {
+                        "foodName": "Miso Soup",
+                        "foodPhoto": "miso_soup",
+                        "foodPrice": "$4.99"
+                    },
+                    {
+                        "foodName": "Tonkatsu",
+                        "foodPhoto": "tonkatsu",
+                        "foodPrice": "$15.99"
+                    }
+                ]
+            },
+            {
+                "name": "Tokyo Diner",
+                "restaurantPhoto": "TokyoDiner",
+                "aboutRestaurant": "A casual diner with a wide variety of Japanese dishes.",
+                "foods": [
+                    {
+                        "foodName": "Sushi Platter",
+                        "foodPhoto": "sushi_platter",
+                        "foodPrice": "$25.99"
+                    },
+                    {
+                        "foodName": "Ramen",
+                        "foodPhoto": "ramen",
+                        "foodPrice": "$12.99"
+                    },
+                    {
+                        "foodName": "Tempura",
+                        "foodPhoto": "tempura",
+                        "foodPrice": "$14.99"
+                    },
+                    {
+                        "foodName": "Miso Soup",
+                        "foodPhoto": "miso_soup",
+                        "foodPrice": "$4.99"
+                    },
+                    {
+                        "foodName": "Tonkatsu",
+                        "foodPhoto": "tonkatsu",
+                        "foodPrice": "$15.99"
+                    }
+                ]
+            },
+            {
+                "name": "Ninja Sushi",
+                "restaurantPhoto": "NinjaSushi",
+                "aboutRestaurant": "Authentic sushi experience in a modern setting.",
+                "foods": [
+                    {
+                        "foodName": "Sushi Platter",
+                        "foodPhoto": "sushi_platter",
+                        "foodPrice": "$25.99"
+                    },
+                    {
+                        "foodName": "Ramen",
+                        "foodPhoto": "ramen",
+                        "foodPrice": "$12.99"
+                    },
+                    {
+                        "foodName": "Tempura",
+                        "foodPhoto": "tempura",
+                        "foodPrice": "$14.99"
+                    },
+                    {
+                        "foodName": "Miso Soup",
+                        "foodPhoto": "miso_soup",
+                        "foodPrice": "$4.99"
+                    },
+                    {
+                        "foodName": "Tonkatsu",
+                        "foodPhoto": "tonkatsu",
+                        "foodPrice": "$15.99"
+                    }
+                ]
+            },
+            {
+                "name": "Kyoto Palace",
+                "restaurantPhoto": "KyotoPalace",
+                "aboutRestaurant": "Traditional Japanese dishes in a serene environment.",
+                "foods": [
+                    {
+                        "foodName": "Sushi Platter",
+                        "foodPhoto": "sushi_platter",
+                        "foodPrice": "$25.99"
+                    },
+                    {
+                        "foodName": "Ramen",
+                        "foodPhoto": "ramen",
+                        "foodPrice": "$12.99"
+                    },
+                    {
+                        "foodName": "Tempura",
+                        "foodPhoto": "tempura",
+                        "foodPrice": "$14.99"
+                    },
+                    {
+                        "foodName": "Miso Soup",
+                        "foodPhoto": "miso_soup",
+                        "foodPrice": "$4.99"
+                    },
+                    {
+                        "foodName": "Tonkatsu",
+                        "foodPhoto": "tonkatsu",
+                        "foodPrice": "$15.99"
+                    }
+                ]
+            },
+            {
+                "name": "Samurai Kitchen",
+                "restaurantPhoto": "SamuraiKitchen",
+                "aboutRestaurant": "Experience the best of Japanese cuisine.",
+                "foods": [
+                    {
+                        "foodName": "Sushi Platter",
+                        "foodPhoto": "sushi_platter",
+                        "foodPrice": "$25.99"
+                    },
+                    {
+                        "foodName": "Ramen",
+                        "foodPhoto": "ramen",
+                        "foodPrice": "$12.99"
+                    },
+                    {
+                        "foodName": "Tempura",
+                        "foodPhoto": "tempura",
+                        "foodPrice": "$14.99"
+                    },
+                    {
+                        "foodName": "Miso Soup",
+                        "foodPhoto": "miso_soup",
+                        "foodPrice": "$4.99"
+                    },
+                    {
+                        "foodName": "Tonkatsu",
+                        "foodPhoto": "tonkatsu",
+                        "foodPrice": "$15.99"
+                    }
+                ]
+            }
+        ]
+    }
+]
