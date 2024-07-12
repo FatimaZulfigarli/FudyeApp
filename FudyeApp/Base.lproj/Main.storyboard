@@ -255,7 +255,7 @@
                     </view>
                     <navigationItem key="navigationItem" id="t33-2e-AsM"/>
                     <connections>
-                        <outlet property="CuisineCollectionView" destination="HuR-GL-sHw" id="AEN-bm-sKk"/>
+                        <outlet property="cuisineCollection" destination="HuR-GL-sHw" id="bRG-xT-EO0"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="FOd-3i-mgR" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>

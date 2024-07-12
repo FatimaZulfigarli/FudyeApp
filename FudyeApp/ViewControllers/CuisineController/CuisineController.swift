@@ -10,6 +10,7 @@ import UIKit
 class CuisineController: UIViewController {
 
     @IBOutlet weak var cuisineCollection: UICollectionView!
+    
     private var viewModel = CuisineViewModel()
        var selectedCuisine: Menu?
        
